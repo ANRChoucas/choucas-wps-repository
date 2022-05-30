@@ -1,0 +1,9 @@
+choucas.erig.algorithm.ErigChainTxtJson1
+choucas.erig.algorithm.ErigChainTxtJson2
+choucas.erig.algorithm.ErigGeocoding
+choucas.erig.algorithm.ErigGeoparsing
+choucas.erig.algorithm.ErigNer
+choucas.erig.algorithm.ErigNerc
+choucas.choucas.algorithm.TextToPOS
+choucas.choucas.algorithm.TextToGeocodingChain
+choucas.choucas.algorithm.TextToGeoJsonChain
